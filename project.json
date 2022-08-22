@@ -6,10 +6,6 @@
     "x86_64"
   ],
   "assets": [
-    {
-      "form": "/storage/emulated/0/脚本/tessocr",
-      "to": "/project"
-    }
   ],
   "buildDir": "build",
   "build": {
@@ -43,15 +39,15 @@
   ],
   "main": "main.js",
   "name": "TessOCR",
-  "outputPath": "/storage/emulated/0/脚本/tessocr/build",
+  "outputPath": null,
   "packageName": "com.script.tessocr",
-  "projectDirectory": "/storage/emulated/0/脚本/tessocr",
+  "projectDirectory": null,
   "scripts": {},
   "signingConfig": {
     "alias": null,
     "keystore": null
   },
-  "sourcePath": "/storage/emulated/0/脚本/tessocr/main.js",
+  "sourcePath": null,
   "versionCode": 1,
   "versionName": "1.0.0"
 }
